@@ -1,0 +1,17 @@
+C:\Users\Tech Land\source\repos\HospitalMS\bin\Debug\HospitalMS.exe
+C:\Users\Tech Land\source\repos\HospitalMS\bin\Debug\HospitalMS.pdb
+C:\Users\Tech Land\source\repos\HospitalMS\bin\Debug\ClassLibrary1.dll
+C:\Users\Tech Land\source\repos\HospitalMS\bin\Debug\ClassLibrary1.pdb
+C:\Users\Tech Land\source\repos\HospitalMS\obj\Debug\HospitalMS.csproj.AssemblyReference.cache
+C:\Users\Tech Land\source\repos\HospitalMS\obj\Debug\HospitalMS.Properties.Resources.resources
+C:\Users\Tech Land\source\repos\HospitalMS\obj\Debug\HospitalMS.csproj.GenerateResource.cache
+C:\Users\Tech Land\source\repos\HospitalMS\obj\Debug\HospitalMS.csproj.CoreCompileInputs.cache
+C:\Users\Tech Land\source\repos\HospitalMS\obj\Debug\HospitalMS.csproj.CopyComplete
+C:\Users\Tech Land\source\repos\HospitalMS\obj\Debug\HospitalMS.exe
+C:\Users\Tech Land\source\repos\HospitalMS\obj\Debug\HospitalMS.pdb
+C:\Users\Tech Land\source\repos\HospitalMS\obj\Debug\HospitalMS.Doctor.resources
+C:\Users\Tech Land\source\repos\HospitalMS\obj\Debug\HospitalMS.Admin.resources
+C:\Users\Tech Land\source\repos\HospitalMS\obj\Debug\HospitalMS.Diagnostic.resources
+C:\Users\Tech Land\source\repos\HospitalMS\obj\Debug\HospitalMS.Login.resources
+C:\Users\Tech Land\source\repos\HospitalMS\obj\Debug\HospitalMS.Create_Account.resources
+C:\Users\Tech Land\source\repos\HospitalMS\obj\Debug\HospitalMS.Patient.resources
